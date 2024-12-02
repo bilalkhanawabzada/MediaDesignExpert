@@ -1,0 +1,6 @@
+{
+  "cmake.sourceDirectory": "/Users/bilalkhannawabzada/Projects/testApp/flutter_boilerplate_mvvm/linux",
+  "dart.flutterSdkPath": ".fvm/versions/3.22.1",
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
+}

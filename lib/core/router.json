@@ -1,0 +1,175 @@
+{
+    "last_updated": "Thu, 27 Jul 2023 19:47:23 GMT",
+    "routes": [
+        {
+            "file_path": "views/splash/splash_view.dart",
+            "route_name": "splashViewRoute",
+            "view_name": "SplashView"
+        },
+        {
+            "file_path": "views/on_board/on_board_view.dart",
+            "route_name": "on_boardViewRoute",
+            "view_name": "OnBoardView"
+        },
+        {
+            "file_path": "views/sign_up/sign_up_view.dart",
+            "route_name": "sign_upViewRoute",
+            "view_name": "SignUpView"
+        },
+        {
+            "file_path": "views/sign_in/sign_in_view.dart",
+            "route_name": "sign_inViewRoute",
+            "view_name": "SignInView"
+        },
+        {
+            "file_path": "views/verify_otp/verify_otp_view.dart",
+            "route_name": "verify_otpViewRoute",
+            "view_name": "VerifyOtpView"
+        },
+        {
+            "file_path": "views/account_created/account_created_view.dart",
+            "route_name": "account_createdViewRoute",
+            "view_name": "AccountCreatedView"
+        },
+        {
+            "file_path": "views/forget_password/forget_password_view.dart",
+            "route_name": "forget_passwordViewRoute",
+            "view_name": "ForgetPasswordView"
+        },
+        {
+            "file_path": "views/reset_password/reset_password_view.dart",
+            "route_name": "reset_passwordViewRoute",
+            "view_name": "ResetPasswordView"
+        },
+        {
+            "file_path": "views/home/home_view.dart",
+            "route_name": "homeViewRoute",
+            "view_name": "HomeView"
+        },
+        {
+            "file_path": "views/main/main_view.dart",
+            "route_name": "mainViewRoute",
+            "view_name": "MainView"
+        },
+        {
+            "file_path": "views/categories/categories_view.dart",
+            "route_name": "categoriesViewRoute",
+            "view_name": "CategoriesView"
+        },
+        {
+            "file_path": "views/products/products_view.dart",
+            "route_name": "productsViewRoute",
+            "view_name": "ProductsView"
+        },
+        {
+            "file_path": "views/product_details/product_details_view.dart",
+            "route_name": "product_detailsViewRoute",
+            "view_name": "ProductDetailsView"
+        },
+        {
+            "file_path": "views/profile/profile_view.dart",
+            "route_name": "profileViewRoute",
+            "view_name": "ProfileView"
+        },
+        {
+            "file_path": "views/edit_profile/edit_profile_view.dart",
+            "route_name": "edit_profileViewRoute",
+            "view_name": "EditProfileView"
+        },
+        {
+            "file_path": "views/contact_us/contact_us_view.dart",
+            "route_name": "contact_usViewRoute",
+            "view_name": "ContactUsView"
+        },
+        {
+            "file_path": "views/change_password/change_password_view.dart",
+            "route_name": "change_passwordViewRoute",
+            "view_name": "ChangePasswordView"
+        },
+        {
+            "file_path": "views/my_cart/my_cart_view.dart",
+            "route_name": "my_cartViewRoute",
+            "view_name": "MyCartView"
+        },
+        {
+            "file_path": "views/favorite/favorite_view.dart",
+            "route_name": "favoriteViewRoute",
+            "view_name": "FavoriteView"
+        },
+        {
+            "file_path": "views/shipping_address/shipping_address_view.dart",
+            "route_name": "shipping_addressViewRoute",
+            "view_name": "ShippingAddressView"
+        },
+        {
+            "file_path": "views/order_history/order_history_view.dart",
+            "route_name": "order_historyViewRoute",
+            "view_name": "OrderHistoryView"
+        },
+        {
+            "file_path": "views/weekly_promotions/weekly_promotions_view.dart",
+            "route_name": "weekly_promotionsViewRoute",
+            "view_name": "WeeklyPromotionsView"
+        },
+        {
+            "file_path": "views/sub_categories/sub_categories_view.dart",
+            "route_name": "sub_categoriesViewRoute",
+            "view_name": "SubCategoriesView"
+        },
+        {
+            "file_path": "views/checkout/checkout_view.dart",
+            "route_name": "checkoutViewRoute",
+            "view_name": "CheckoutView"
+        },
+        {
+            "file_path": "views/order_placed/order_placed_view.dart",
+            "route_name": "order_placedViewRoute",
+            "view_name": "OrderPlacedView"
+        },
+        {
+            "file_path": "views/notifications/notifications_view.dart",
+            "route_name": "notificationsViewRoute",
+            "view_name": "NotificationsView"
+        },
+        {
+            "file_path": "views/re_order/re_order_view.dart",
+            "route_name": "re_orderViewRoute",
+            "view_name": "ReOrderView"
+        },
+        {
+            "file_path": "views/warranty/warranty_view.dart",
+            "route_name": "warrantyViewRoute",
+            "view_name": "WarrantyView"
+        },
+        {
+            "file_path": "views/cleaning_instructions/cleaning_instructions_view.dart",
+            "route_name": "cleaning_instructionsViewRoute",
+            "view_name": "CleaningInstructionsView"
+        },
+        {
+            "file_path": "views/about_us/about_us_view.dart",
+            "route_name": "about_usViewRoute",
+            "view_name": "AboutUsView"
+        },
+        {
+            "file_path": "views/paypal_web/paypal_web_view.dart",
+            "route_name": "paypal_webViewRoute",
+            "view_name": "PaypalWebView"
+        },
+        {
+            "file_path": "views/powered_by/powered_by_view.dart",
+            "route_name": "powered_byViewRoute",
+            "view_name": "PoweredByView"
+        },
+      {
+        "file_path": "views/home/home_view.dart",
+        "route_name": "homeViewRoute1",
+        "view_name": "HomeView"
+      },
+        {
+            "file_path": "views/AgoraVideoCall/agora_video_call_view.dart",
+            "route_name": "videoCall",
+            "view_name": "AgoraCallView"
+        }
+    ]
+}

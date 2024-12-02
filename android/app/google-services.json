@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "772112957915",
+    "project_id": "arinstrumed-ee71f",
+    "storage_bucket": "arinstrumed-ee71f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772112957915:android:053b0a762df4b9214da7fe",
+        "android_client_info": {
+          "package_name": "com.digitaldiraction.jaat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772112957915-lvd83mnnbmdgvvif9k68rgip5kpa6tec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ANyLCwGD5QkPieq3qHPbJjoFz-f5s5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772112957915-lvd83mnnbmdgvvif9k68rgip5kpa6tec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772112957915-itfr6epseiaqn3fb5jbkh36uirc6vpuu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitaldiraction.jaat_app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

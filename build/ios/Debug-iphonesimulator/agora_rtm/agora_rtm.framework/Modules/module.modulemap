@@ -1,0 +1,11 @@
+framework module agora_rtm {
+  umbrella header "agora_rtm-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module agora_rtm.Swift {
+  header "agora_rtm-Swift.h"
+  requires objc
+}

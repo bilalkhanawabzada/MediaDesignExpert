@@ -1,0 +1,659 @@
+{
+    "success": true,
+    "code": 200,
+    "message": "Categories with sub categories fetched successfully",
+    "data": [
+        {
+            "id": 61,
+            "title": "Surgical Scissors",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon62.jpg",
+            "subCategories": [
+                {
+                    "id": 62,
+                    "title": "TC Scissors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon39.jpg"
+                },
+                {
+                    "id": 63,
+                    "title": "Standard Scissors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon41.jpg"
+                },
+                {
+                    "id": 64,
+                    "title": "Spring Scissors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon40.jpg"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "title": "Surgical Instruments",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon58.jpg",
+            "subCategories": [
+                {
+                    "id": 65,
+                    "title": "Bone Files",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon33.jpg"
+                },
+                {
+                    "id": 66,
+                    "title": "Bone Grafting Instruments",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon32.jpg"
+                },
+                {
+                    "id": 67,
+                    "title": "Bone Crushers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon31.jpg"
+                },
+                {
+                    "id": 68,
+                    "title": "Bone Expander Kits",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon12.jpg"
+                },
+                {
+                    "id": 69,
+                    "title": "Bone Wells",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon11.jpg"
+                },
+                {
+                    "id": 70,
+                    "title": "Bone Syringes",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail99.jpg"
+                },
+                {
+                    "id": 71,
+                    "title": "Calipers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail98.jpg"
+                },
+                {
+                    "id": 72,
+                    "title": "Chisels & Bone Scrapers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail97.jpg"
+                },
+                {
+                    "id": 73,
+                    "title": "Mallets",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail96.jpg"
+                },
+                {
+                    "id": 74,
+                    "title": "Osteotomes",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail95.jpg"
+                },
+                {
+                    "id": 75,
+                    "title": "Periosteal Elevators",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail94.jpg"
+                },
+                {
+                    "id": 76,
+                    "title": "PRF Process",
+                    "thumbnail": null
+                },
+                {
+                    "id": 77,
+                    "title": "Retractors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail93.jpg"
+                },
+                {
+                    "id": 78,
+                    "title": "Scalpel Handles",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail92.jpg"
+                },
+                {
+                    "id": 79,
+                    "title": "Sinus Lift Instruments",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail91.jpg"
+                },
+                {
+                    "id": 80,
+                    "title": "Soft Brushing kit",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon10.jpg"
+                },
+                {
+                    "id": 81,
+                    "title": "Surgical Bone Curettes",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail90.jpg"
+                },
+                {
+                    "id": 82,
+                    "title": "Suction Tips",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon9.jpg"
+                },
+                {
+                    "id": 83,
+                    "title": "Tissue Punches",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail8.jpg"
+                },
+                {
+                    "id": 173,
+                    "title": "Tunnelling Knives",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon35.jpg"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "title": "Prosthodontic Instruments",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon57.jpg",
+            "subCategories": [
+                {
+                    "id": 84,
+                    "title": "Crown Instruments",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail87.jpg"
+                },
+                {
+                    "id": 146,
+                    "title": "Impression Trays",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail88.jpg"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "title": "Instruments Hollow Ware",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon56.jpg",
+            "subCategories": [
+                {
+                    "id": 86,
+                    "title": "Bowls For Mixing",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail85.jpg"
+                },
+                {
+                    "id": 87,
+                    "title": "Instrument Trays",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail84.jpg"
+                },
+                {
+                    "id": 88,
+                    "title": "Instrument Box",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail83.jpg"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "title": "Instrument Cassettes",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon55.jpg"
+        },
+        {
+            "id": 49,
+            "title": "Endodontic Instruments",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon54.jpg",
+            "subCategories": [
+                {
+                    "id": 89,
+                    "title": "Endodontic Spreaders",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail81.jpg"
+                },
+                {
+                    "id": 90,
+                    "title": "Rubber Dam Instruments",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail80.jpg"
+                },
+                {
+                    "id": 91,
+                    "title": "Rubber Dam Clamps",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail79.jpg"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "title": "Diagnostic",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon53.jpg",
+            "subCategories": [
+                {
+                    "id": 92,
+                    "title": "Probes",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail77.jpg"
+                },
+                {
+                    "id": 93,
+                    "title": "Explorer",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail76.jpg"
+                },
+                {
+                    "id": 94,
+                    "title": "Mirror Handle",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail75.jpg"
+                },
+                {
+                    "id": 95,
+                    "title": "Mirrors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail74.jpg"
+                },
+                {
+                    "id": 96,
+                    "title": "Tweezers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail73.jpg"
+                },
+                {
+                    "id": 97,
+                    "title": "Dental Examination kit",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail72.jpg"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "title": "Restorative Instruments",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon52.jpg",
+            "subCategories": [
+                {
+                    "id": 98,
+                    "title": "Amalgam Carriers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail61.jpg"
+                },
+                {
+                    "id": 99,
+                    "title": "Amalgam Wells",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail60.jpg"
+                },
+                {
+                    "id": 101,
+                    "title": "Excavators",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail70.jpg"
+                },
+                {
+                    "id": 103,
+                    "title": "Flat Plastic TIT",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail69.jpg"
+                },
+                {
+                    "id": 104,
+                    "title": "Filling Plugger Condenser",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail68.jpg"
+                },
+                {
+                    "id": 152,
+                    "title": "Restoratives TIT",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail67.jpg"
+                },
+                {
+                    "id": 154,
+                    "title": "Flat Plastic - Standard",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail66.jpg"
+                },
+                {
+                    "id": 155,
+                    "title": "Ball Burnishers - Standard",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail65.jpg"
+                },
+                {
+                    "id": 156,
+                    "title": "Ball Burnishers TIT",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail64.jpg"
+                },
+                {
+                    "id": 158,
+                    "title": "Matrix Band Retainers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail63.jpg"
+                },
+                {
+                    "id": 159,
+                    "title": "Restorative Carvers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail62.jpg"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "title": "Sets & kits",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon51.jpg",
+            "subCategories": [
+                {
+                    "id": 105,
+                    "title": "Dental Examination kit",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail58.jpg"
+                },
+                {
+                    "id": 106,
+                    "title": "Surgical Setup Kits",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail57.jpg"
+                },
+                {
+                    "id": 107,
+                    "title": "Extraction Sets",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail56.jpg"
+                },
+                {
+                    "id": 108,
+                    "title": "Gracey Curettes Set",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon1.jpg"
+                },
+                {
+                    "id": 109,
+                    "title": "Scalers Set",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail55.jpg"
+                },
+                {
+                    "id": 110,
+                    "title": "Sinus lift Osteotomes Sets",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail54.jpg"
+                },
+                {
+                    "id": 111,
+                    "title": "Composite Kit",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail53.jpg"
+                },
+                {
+                    "id": 167,
+                    "title": "Micro Surgery Suturing kit",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail52.jpg"
+                },
+                {
+                    "id": 168,
+                    "title": "Luxating Elevators Set",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail51.jpg"
+                },
+                {
+                    "id": 169,
+                    "title": "PDL Set",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail50.jpg"
+                },
+                {
+                    "id": 170,
+                    "title": "Periotome Set",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail49.jpg"
+                },
+                {
+                    "id": 171,
+                    "title": "Rubber Dam kit",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail48.jpg"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "title": "Extraction",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon50.jpg",
+            "subCategories": [
+                {
+                    "id": 112,
+                    "title": "Extracting Forceps Kids",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail47.jpg"
+                },
+                {
+                    "id": 113,
+                    "title": "Extracting Forceps Universal",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail46.jpg"
+                },
+                {
+                    "id": 114,
+                    "title": "Extracting Forceps Handform",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail12.jpg"
+                },
+                {
+                    "id": 115,
+                    "title": "Extracting Forceps Premium",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail11.jpg"
+                },
+                {
+                    "id": 116,
+                    "title": "Extracting Forceps Standard",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail10.jpg"
+                },
+                {
+                    "id": 117,
+                    "title": "Periotomes",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail9.jpg"
+                },
+                {
+                    "id": 119,
+                    "title": "Rongeurs",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon30.jpg"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "title": "Needle Holders",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon49.jpg",
+            "subCategories": [
+                {
+                    "id": 122,
+                    "title": "Standard Needle Holders",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail44.jpg"
+                },
+                {
+                    "id": 123,
+                    "title": "TC Needle Holders",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon29.jpg"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "title": "Orthodontic",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon48.jpg",
+            "subCategories": [
+                {
+                    "id": 124,
+                    "title": "Ortho - Instuments",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon7.jpg"
+                },
+                {
+                    "id": 125,
+                    "title": "Pliers & Standard",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail41.jpg"
+                },
+                {
+                    "id": 126,
+                    "title": "Pliers & Premium",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail40.jpg"
+                },
+                {
+                    "id": 127,
+                    "title": "Wire Cutters",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "title": "Periodontology",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon47.jpg",
+            "subCategories": [
+                {
+                    "id": 128,
+                    "title": "Gracey Curettes",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail35.jpg"
+                },
+                {
+                    "id": 129,
+                    "title": "Periodontial Probes",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail34.jpg"
+                },
+                {
+                    "id": 130,
+                    "title": "Gingivectomy Knives",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon43.jpg"
+                },
+                {
+                    "id": 131,
+                    "title": "Scalers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail33.jpg"
+                },
+                {
+                    "id": 160,
+                    "title": "Margin Trimmers",
+                    "thumbnail": null
+                },
+                {
+                    "id": 161,
+                    "title": "Scaler - Universal",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail32.jpg"
+                },
+                {
+                    "id": 162,
+                    "title": "Scaler - Anterior",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail31.jpg"
+                },
+                {
+                    "id": 163,
+                    "title": "Scaler - Posterior",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail37.jpg"
+                },
+                {
+                    "id": 164,
+                    "title": "Scaler - Other",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon42.jpg"
+                },
+                {
+                    "id": 175,
+                    "title": "Periodontal Files",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail30.jpg"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "title": "Scissors",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon46.jpg",
+            "subCategories": [
+                {
+                    "id": 132,
+                    "title": "Micro Surgery Scissors TC",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon28.jpg"
+                },
+                {
+                    "id": 133,
+                    "title": "Spring Scissors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail26.jpg"
+                },
+                {
+                    "id": 134,
+                    "title": "Standard Scissors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail27.jpg"
+                },
+                {
+                    "id": 135,
+                    "title": "TC Scissors",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail28.jpg"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "title": "Laboratory Tools",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon45.jpg",
+            "subCategories": [
+                {
+                    "id": 136,
+                    "title": "Bowls For Mixing",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail19.jpg"
+                },
+                {
+                    "id": 137,
+                    "title": "Waxing & Modelling Carvers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail20.jpg"
+                },
+                {
+                    "id": 138,
+                    "title": "Waxing Knives",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail21.jpg"
+                },
+                {
+                    "id": 139,
+                    "title": "Plaster Spatulas",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail22.jpg"
+                },
+                {
+                    "id": 140,
+                    "title": "Cement Spatulas",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail23.jpg"
+                },
+                {
+                    "id": 141,
+                    "title": "Laboratory Instruments",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail24.jpg"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "title": "Tweezers & Forceps",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon44.jpg",
+            "subCategories": [
+                {
+                    "id": 121,
+                    "title": "Towel Clamps",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon27.jpg"
+                },
+                {
+                    "id": 142,
+                    "title": "General Tweezers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail15.jpg"
+                },
+                {
+                    "id": 145,
+                    "title": "Artery Forceps",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail16.jpg"
+                },
+                {
+                    "id": 174,
+                    "title": "Tissue Forceps",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/thumbnail17.jpg"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "title": "Root Elevators",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon61.jpg",
+            "subCategories": [
+                {
+                    "id": 147,
+                    "title": "Luxating Root Elevators",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon24.jpg"
+                },
+                {
+                    "id": 148,
+                    "title": "Root Tip Pickers",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon22.jpg"
+                },
+                {
+                    "id": 150,
+                    "title": "Root Elevators Plastic Handle",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon21.jpg"
+                },
+                {
+                    "id": 151,
+                    "title": "Root Elevators Serrated Tip",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon20.jpg"
+                },
+                {
+                    "id": 157,
+                    "title": "Bein Root Elevators",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon19.jpg"
+                },
+                {
+                    "id": 166,
+                    "title": "PDL Extraction Elevators",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon18.jpg"
+                },
+                {
+                    "id": 172,
+                    "title": "Root Elevators TIT",
+                    "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon25.jpg"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "title": "Syringes",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon60.jpg"
+        },
+        {
+            "id": 153,
+            "title": "Clearance Sale",
+            "thumbnail": null
+        },
+        {
+            "id": 165,
+            "title": "Micro Surgery",
+            "thumbnail": "https://ar-instrumed.com.au/uploads/products/categories/icon59.jpg"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+* Getting Started
+1- Install Flutter stacked architecture generator extension
+2- Initilize the architecture
+3- Whenever you need to create a view run the Stacked Architecture: Create view
+   It will create a sub folder in views folder that folder will have two classes a view class and a viewModel class
+   Always add your bussiness logics in viewModel
+   View will only have Widgets and visual presentation
+
+
+* Architecture (File Structure)
+-- Core --
+    ~ Base (base classes)
+    ~ models (data classes)
+    ~ network (network related classes i.e endpoints and exceptions)
+    ~ resources (component(app level component like scroll configrations etc), utilities (static and common funtions/properties))
+    ~ services (Epic wise API calls)
+    ~ locator (setup singelton design)
+    ~ logger (log printer setup)
+    ~ navigator service (setup provider methods)
+    ~ network api service (a very dynamic class for api calls)
+    ~ router constants (contains all routers signatures)
+    ~ router.dart (contains all view level routes)
+--Theme--
+    ~ theme (contains app level theme, setup it in main class)
+--Views--
+    ~ contains all the views
+    ~ view (visual presentation)
+    ~ viewModel (bussiness logics and api's consumption)
+--Widgets--
+    ~ contains sub widgets or common widgets
